@@ -1,6 +1,5 @@
 export { default as img1 } from './anh 1.jpg'
 export { default as img2 } from './anh 2.jpg'
-export { default as BackgroundImg } from './background.svg'
 export { default as CrossBlue } from './cross-blue.svg'
 export { default as CrossWhite } from './CrossWhite'
 export { default as Hexagon } from './Hexagon'
